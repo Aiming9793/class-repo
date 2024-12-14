@@ -1,4 +1,5 @@
-# AEM 7130 Dynamic Optimization
+# My Frist name is Imran
+# AEM 7130 Dynamic Optimization - Modified
 **Time**: Monday and Wednesday 11:25-12:40
 
 **Location**: Statler 453
